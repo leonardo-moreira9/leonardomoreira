@@ -34,6 +34,11 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
+![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![SAP](https://img.shields.io/badge/-SAP-333?style=flat&logo=sap)
 ![VBA](https://img.shields.io/badge/-VBA-333?style=flat&logo=microsoftexcel)
 ![Selenium](https://img.shields.io/badge/-Selenium-333?style=flat&logo=selenium)
 
