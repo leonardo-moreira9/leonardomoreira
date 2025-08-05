@@ -12,10 +12,9 @@
 
 I'm a Python Developer with **5+ years of experience** building scalable backend solutions, automation systems, and process optimization tools.
 
-Currently working at Accenture, where I lead the development of custom automation platforms that replaced tools like Microsoft Power Automate. This initiative eliminated licensing costs by migrating all workflows to Python-based solutions, reduced processing time by over 60%, and gave the operations team full visibility and control over their processes. It also freed the development team from operational ownership, removing the need to manage schedules, start/stop executions, or report logs.
+Currently working at **Accenture**, where I lead the development of custom automation platforms that replaced tools like Microsoft Power Automate. This initiative eliminated licensing costs by migrating all workflows to Python-based solutions, **reduced processing time by over 60%**, and gave the operations team full visibility and control over their processes. It also freed the development team from operational ownership, removing the need to manage schedules, start/stop executions, or report logs.
 
-I bring strong problem-solving skills, a business-oriented mindset, and a proactive approach to identifying bottlenecks and delivering measurable results.  
-I thrive in multicultural, remote-first teams and have experience working in **agile, global environments**.
+I bring strong problem-solving skills, a business-oriented mindset, and a proactive approach to identifying bottlenecks and delivering measurable results. I thrive in multicultural, remote-first teams and have extensive experience working in **agile, global environments**.
 
 ---
 
