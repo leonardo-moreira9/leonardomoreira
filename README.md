@@ -8,25 +8,25 @@
 
 ---
 
-🔧 I’m a Python Developer with 5+ years of experience building automation systems, scalable backend services, and process optimization tools.
+I’m a Python Developer with 5+ years of experience building automation systems, scalable backend services, and process optimization tools.
 
-💼 Currently working at **Accenture**, where I help modernize finance operations through automation and custom platform development.
+Currently working at **Accenture**, where I help modernize finance operations through automation and custom platform development.
 
-💡 I specialize in:
-- 🐍 Python (FastAPI, Flask, Async)
-- 📊 RPA, ETL pipelines, OCR, SAP automation
-- 🗃️ MongoDB, SQLite
-- ☁️ Automation tools: Selenium, PowerShell, VBA
+I specialize in:
+- Python (FastAPI, Flask, Async)
+- RPA, ETL pipelines, OCR, SAP automation
+- MongoDB, SQLite
+- Automation tools: Selenium, PowerShell, VBA
 
-🌍 Languages: Portuguese (native), English (fluent), Spanish (fluent), French (intermediate)
+Languages: Portuguese (native), English (fluent), Spanish (fluent), French (intermediate)
 
-📫 Reach me at:
+Reach me at:
 - [LinkedIn](https://www.linkedin.com/in/leonardo-moreira9)
 - [Email](mailto:leonardo.moreira9@outlook.com)
 
 ---
 
-### ⚙️ Tech Stack
+### ⚙ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi)
@@ -44,9 +44,9 @@
 
 ---
 
-### 📌 Highlight Projects *(coming soon...)*
+### Highlight Projects *(coming soon...)*
 
-📁 I'm currently uploading and cleaning up some projects. Stay tuned for updates!
+I'm currently uploading and cleaning up some projects. Stay tuned for updates!
 
 ---
 
