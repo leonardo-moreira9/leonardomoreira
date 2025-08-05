@@ -1,32 +1,48 @@
 # leonardomoreira
 
-<h1 align="center">Hey there, I'm Leonardo</h1>
-
+<h1 align="center">Hey there, I'm Leonardo 👋</h1>
 <p align="center">
-  <strong>Software Engineer</strong> focused on Backend & Automation | 🇧🇷 Based in São Paulo, Brazil
+  <strong>Software Engineer | Backend & Automation Specialist</strong><br/>
+  🇧🇷 Based in São Paulo, Brazil
 </p>
 
 ---
 
-I’m a Python Developer with 5+ years of experience building automation systems, scalable backend services, and process optimization tools.
+## 💼 About Me
 
-Currently working at **Accenture**, where I help modernize finance operations through automation and custom platform development.
+I'm a Python Developer with **5+ years of experience** building scalable backend solutions, automation systems, and process optimization tools.
 
-I specialize in:
-- Python (FastAPI, Flask, Async)
-- RPA, ETL pipelines, OCR, SAP automation
-- MongoDB, SQLite
-- Automation tools: Selenium, PowerShell, VBA
+Currently working at **Accenture**, where I lead the development of custom automation platforms that replaced tools like Microsoft Power Automate — helping the finance team reduce the monthly closing process from **10 to 3 days**, while eliminating licensing costs.
 
-Languages: Portuguese (native), English (fluent), Spanish (fluent), French (intermediate)
-
-Reach me at:
-- [LinkedIn](https://www.linkedin.com/in/leonardo-moreira9)
-- [Email](mailto:leonardo.moreira9@outlook.com)
+I bring strong problem-solving skills, a business-oriented mindset, and a proactive approach to identifying bottlenecks and delivering measurable results.  
+I thrive in multicultural, remote-first teams and have experience working in **agile, global environments**.
 
 ---
 
-### ⚙ Tech Stack
+## 💡 What I Do Best
+
+- 🐍 **Backend Development**: Python, FastAPI, Flask, OOP, GraphQL, SQL, MongoDB  
+- 🤖 **Automation & Data Engineering**: RPA, Selenium, ETL pipelines, OCR, SAP  
+- 🌐 **Frontend Integration**: JavaScript, HTML, CSS, React.js  
+- 🔗 **System Design**: REST APIs, async processing, CI/CD pipelines  
+- 🧠 **Optimization**: Process redesign, performance improvements, cost reduction
+
+---
+
+## 🌍 Languages
+
+Portuguese (native) | English (fluent) | Spanish (fluent) | French (intermediate)
+
+---
+
+## 📫 Reach Me
+
+- [LinkedIn](https://www.linkedin.com/in/leonardo-moreira9)
+- 📧 leonardo.moreira9@outlook.com
+
+---
+
+## ⚙️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi)
@@ -44,7 +60,7 @@ Reach me at:
 
 ---
 
-### Highlight Projects *(coming soon...)*
+### 📌 Highlight Projects *(coming soon...)*
 
 I'm currently uploading and cleaning up some projects. Stay tuned for updates!
 
