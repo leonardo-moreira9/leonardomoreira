@@ -1,6 +1,6 @@
 # leonardomoreira
 
-<h1 align="center">Hi there, I'm Leonardo 👋</h1>
+<h1 align="center">Hey there, I'm Leonardo</h1>
 
 <p align="center">
   <strong>Software Engineer</strong> focused on Backend & Automation | 🇧🇷 Based in São Paulo, Brazil
